@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 grants = int(input("ежемесячная стипендия"))
 expenses = int(input("ежемесячные расходы"))
 months = 10
